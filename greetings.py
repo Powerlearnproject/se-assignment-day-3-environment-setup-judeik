@@ -6,4 +6,4 @@ def greet(person):
 # Apply the function
 print(greet("Jude"))
 print(greet("Mr Charles"))
-print(greet("Everyone"))
+print(greet("Prof. Jude"))
