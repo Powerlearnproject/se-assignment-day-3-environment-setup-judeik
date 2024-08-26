@@ -33,5 +33,5 @@ print(f"The square root of 144 is: {result}")
 # Custom Module: A module is python code that contain function
 # Calling a customized module
 import greetings
-print(greetings.greet("Dr Jude"))
 print(greetings.greet("Prof. Ojobor"))
+print(greetings.greet("Everyone"))
